@@ -2,7 +2,7 @@
 
 
 # About Me
-- 🏢 Hi there! My name is Kyrylo and I'm currently working as a Software Engineer at Checkmarx. My primary expertise lies in .NET backend development, but I also have experience with Angular.
+- 🏢 My name is Kyrylo and I'm currently working as a Software Engineer at Checkmarx. My primary expertise lies in .NET backend development, but I also have experience with Angular.
 - 💾 In my previous jobs, I've had the opportunity to work with SAP ABAP R3 and Oracle Retail, which has given me a broad range of experience across different technologies and platforms.
 - 🎓  I graduated with a Licentiate Degree in Computer Systems Engineering in 2018, where I focused on developing services and web pages in distributed and mobile environments. Additionally, I have completed a Technical Specialization Course in Network and Information Systems and a Technician Course in Computer Systems Management and Programming.
 - 📐 Currently, I am actively learning about Software Architecture, Distributed Systems, and Cybersecurity, which I find incredibly fascinating.
